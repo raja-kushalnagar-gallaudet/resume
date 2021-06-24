@@ -7,6 +7,3 @@
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
-- layout: left
-   name: University of Houston
-   dates: 2008 - 2010

@@ -3,11 +3,18 @@
   company: Gallaudet University
   link: www.gallaudet.edu
   jobs:
-    - title: Professor and Director, Information Technology program
+    - title: Professor, Information Technology program
       dates: Aug 2020 - now
-    - title: Associate Professor and Director, Information Technology Program
+    - title: Associate Professor, Information Technology Program
       dates: Aug 2016 - July 2020
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
+  company: Rochester Institute of Technology
+  link: www.rit.edu
+  jobs:
+    - title: Assistant Professor, Information and Computing Studies
+      dates: Aug 2011 - Aug 2016
+    - title: Instructor, Information and Computing Studies
+      dates: Aug 2010 - Aug 2012

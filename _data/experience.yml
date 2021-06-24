@@ -11,6 +11,7 @@
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
+- layout: left
   company: Rochester Institute of Technology
   link: www.rit.edu
   jobs:
